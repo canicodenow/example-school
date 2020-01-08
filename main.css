@@ -28,7 +28,7 @@ body {
 }
 .nav-link:hover {
   color: #fff;
-  background-color: #2812a9cc;
+  background-color: rgba(40, 18, 169, 0.8);
 }
 .navbar-collapse {
   justify-content: flex-end;
