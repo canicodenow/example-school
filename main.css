@@ -33,6 +33,12 @@ body {
 .navbar-collapse {
   justify-content: flex-end;
 }
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 /* --- header section ---*/
 .header {
   background-image: url("images/classroom.jpg");
